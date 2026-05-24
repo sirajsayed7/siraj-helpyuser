@@ -1,2 +1,0 @@
-# HelpyUser
-Helpy User App
